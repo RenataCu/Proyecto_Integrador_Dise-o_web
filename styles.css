@@ -23,6 +23,10 @@
     /* border: 1px solid red; */
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 header {
     background-color: var(--toldo);
     display: flex;
